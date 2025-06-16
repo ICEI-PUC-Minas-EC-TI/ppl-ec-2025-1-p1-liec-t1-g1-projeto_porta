@@ -12,8 +12,11 @@
 ## Integrantes
 
 HUGO LOPES COUTINHO DA SILVA
+
 MATEUS MARCHIORI
+
 LUIS
+
 EDUARDO
 
 ## Orientador
