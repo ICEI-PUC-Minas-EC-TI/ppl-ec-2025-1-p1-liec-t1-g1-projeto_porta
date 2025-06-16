@@ -11,19 +11,18 @@
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+HUGO LOPES COUTINHO DA SILVA
+MATEUS MARCHIORI
+LUIS
+EDUARDO
 
 ## Orientador
 
-* Nome completo do professor 1
+FELIPE LARA
 
 ## Resumo
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+ESTAMOS FAZENDO UMA PORTA QUE SE TRANCA SOZINHA E ABRE COM USO DE SENHA E DIGITAL.
 
 # Código (do arduino ou esp32)
 
