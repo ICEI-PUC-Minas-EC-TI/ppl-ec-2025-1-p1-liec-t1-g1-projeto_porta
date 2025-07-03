@@ -17,7 +17,9 @@ Abra o App de configuraçoes do seu celular e busque a opção Bluetooth. Deixe 
 Abra o App e cliqque na opçao " Adicionar perfil ":
 
 
+
 ![Imagem do WhatsApp de 2025-07-03 à(s) 19 54 30_f906f993](https://github.com/user-attachments/assets/3d89f654-3117-4806-ab95-8343f3ad3653)
+
 
 
 Apos isso digite a senha geral  " 0000 " e clique em confirmar:
