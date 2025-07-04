@@ -1,6 +1,7 @@
 # Introdução
 
-Decidimos fazer uma porta automatica, devido 
+A porta automatica via app é um projeto que visa facilitar e automatizar a proteção do seu ambiente desejado
+
 ## Problema
 
 Este projeto foi desenvolvido visando solucionar o problema de pessoas que precisam ter um certo controle, além de limitar, o acesso ao quarto, mesmo se distante. Também visa fornecer uma forma de acesso mais simplificada do que um chave ou algo desse gênero. 
