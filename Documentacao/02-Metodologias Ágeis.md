@@ -3,24 +3,27 @@
 
 # Metodologia
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+A metodologia usada foi definir cada um com uma parte, onde todos focariam em uma especifica mas caso surgisse a necesidade um ajudaria o outro.
+Cada pessoa ficou focada emuma parte usamos principalmente o Whatsapp para fazer as divisões e pedir ajuda uns ao outros 
 
 ### Divisão de Papéis
 
 Apresente a divisão de papéis entre os membros do grupo.
 
-Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
-- Scrum Master: Aluno 1;
-- Equipe de Desenvolvimento: Aluno 1, Aluno 2, Aluno 3;
-
-
-### Processo
-
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. Cole aqui um print do quadro Kanban utilizado pelo grupo.
+Exemplificação: A equipe utiliza metodologias ágeis, dividindo entre cada pessoa uma parte do trabalho sendo a divisão:
+    • Hugo Lopes – Backend
+    • Eduardo Santos – Frontend
+    • Luis Fernando – Parte física do trabalho
+    • Mateus – Parte física do trabalho
  
 
 ### Ferramentas
 
 As ferramentas utilizadas no projeto foram:
 
-- Liste aqui as ferramentas utilizadas para desenvolvimento do projeto (como por exemplo: Arduino IDE, APP Inventor, trello e outros). Obs: não é para listar aqui os componentes utilizados.
+    • App Inventor (desenvolvimento do aplicativo mobile)
+    • ESP32 (microcontrolador principal)
+    • Servo motor (acionamento da fechadura)
+    • Leitor de impressão digital (identificação biométrica)
+    • Mini fechadura solenoide (travamento físico da porta, que depois vimos que não tinhamos o equipamento para o seu funcionamento)
+    • Fonte externa 5V (alimentação dos componentes)
