@@ -1,3 +1,5 @@
 # Referências
+EduArduino. Sensor biométrico Dy50 com Arduino. YouTube,  13 de mar. de 2023
+https://youtu.be/ZiVgRXnruQo?si=u7SbLgP-g2zx0gLW
 
-Inclua todas as referências (livros, artigos, sites, etc) utilizados no desenvolvimento do trabalho (no formato ABNT).
+Aulas de Laboratório de Introdução a Engenharia da Computação
