@@ -22,8 +22,5 @@ Exemplificação: A equipe utiliza metodologias ágeis, dividindo entre cada pes
 As ferramentas utilizadas no projeto foram:
 
     • App Inventor (desenvolvimento do aplicativo mobile)
-    • ESP32 (microcontrolador principal)
-    • Servo motor (acionamento da fechadura)
-    • Leitor de impressão digital (identificação biométrica)
-    • Mini fechadura solenoide (travamento físico da porta, que depois vimos que não tinhamos o equipamento para o seu funcionamento)
-    • Fonte externa 5V (alimentação dos componentes)
+    • Arduino IDE (app usado para salvar a programação e envia-la para o ESP32
+    • Whatsapp (usado para comunicação e organização das partes do trabalho)
