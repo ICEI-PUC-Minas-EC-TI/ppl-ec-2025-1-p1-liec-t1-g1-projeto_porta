@@ -1,17 +1,19 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
-
+Decidimos fazer uma porta automatica, devido 
 ## Problema
 
-Nesse momento você deve apresentar o problema que o seu projeto deve  resolver. Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. 
+Este projeto foi desenvolvido visando solucionar o problema de pessoas que precisam ter um certo controle, além de limitar, o acesso ao quarto, mesmo se distante. Também visa fornecer uma forma de acesso mais simplificada do que um chave ou algo desse gênero. 
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um projeto para solucionar o problema apresentado acima. 
+O objetivo principal do projeto Porta Via-App é desenvolver um sistema de abertura e fechamento de porta automatizado, controlado por meio de um aplicativo de celular, além de possibilitar a entarda via digital.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Os dois objetivos principais envolviam a segurança e a praticidade no acesso a ambientes especificos.
  
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão o projeto. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, etc.
+Nosso público são os jovens que tem certo acesso a internet e tem em seus quartos coisas que não gostariam que fosse usada por demais pessoas sem seu controle. Então em bullet point
+  Jovens adultos 15-25 anos
+  Conhecimento prévio em tecnogias
+  Com quartos ou ambientes que desejam privacidades
