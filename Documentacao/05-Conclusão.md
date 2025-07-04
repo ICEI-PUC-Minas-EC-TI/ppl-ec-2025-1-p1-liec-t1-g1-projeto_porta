@@ -1,3 +1,3 @@
 # Conclusão
 
-Descreva aqui a conclusão do projeto e sugestões de trabalhos futuros (o que pode ser melhorado em versões futuras).
+Percebemos que para proximas atualizações nesse projeto poderiamos usar um Relê para dar mais energia ao sistema desse modo fazendo todas as partes funcionarem em conjunto, além de usar uma base de dados para o app não ter que se conectar ao bluetooth em cada tela que abrir.
